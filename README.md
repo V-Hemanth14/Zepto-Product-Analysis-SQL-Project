@@ -149,27 +149,27 @@ GROUP BY category;
 ```
 
 ---
-
 ## 📊 Key Findings
 
-- **Discount Insights**: Identified the best-discounted products and high-discount categories.
-- **Inventory Review**: Found high-MRP products that are out of stock—indicating supply risk.
-- **Efficiency**: Evaluated price per gram to understand value.
-- **Weight Classification**: Helps in logistics planning and storage optimization.
+- **Discount Insights**: Identified top 10 best-discounted products and categories offering the highest average discounts.
+- **Inventory Review**: Discovered high-MRP products that are currently out of stock—highlighting demand gaps or supply chain issues.
+- **Efficiency Analysis**: Evaluated price per gram for products weighing over 100g to determine cost-effectiveness.
+- **Weight Classification**: Categorized products into low, medium, and bulk based on weight, aiding logistics and storage planning.
 
 ---
 
 ## 📝 Reports
 
-- **Value Summary**: Products offering highest discounts
-- **Stock Report**: Products out of stock vs. MRP
-- **Pricing Analysis**: Best price per gram analysis
+- **Value Summary**: Lists products offering the best value through high discounts.
+- **Stock Report**: Highlights out-of-stock items and their associated MRP values.
+- **Pricing Analysis**: Identifies products with optimal price per gram for better consumer value assessment.
 
 ---
 
 ## ✅ Conclusion
 
-This project offers a beginner-friendly and real-world introduction to SQL for retail product analysis. It includes data setup, cleaning, exploratory analysis, and deriving actionable insights—ideal for any aspiring Data Analyst’s portfolio.
+This Zepto product analysis project provides a hands-on, beginner-friendly introduction to SQL for product and retail analytics. Covering everything from data cleaning to advanced querying, it delivers actionable business insights that are essential for decision-making in inventory management, discount strategy, and product optimization. It’s a strong addition to any aspiring Data Analyst’s portfolio.
+
 
 ---
 
