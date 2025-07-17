@@ -188,7 +188,7 @@ Try modifying or adding queries to derive deeper business insights.
 
 ---
 
-## 👤 Author – Hemanth V.
+## 👤 Author – Hemanth .V
 
 - 📷 Instagram: [@havoc_hemanth_7476](https://www.instagram.com/havoc_hemanth_7476)
 - 📧 Email: hemanthvdv@gmail.com  
